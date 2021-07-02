@@ -8,8 +8,8 @@ Survey is gold mine for people to understand the sentiments in the data industry
 ## Data Quality
 Data doesn't have any mandatory fields and hence the quality of missing rows are high. NANs on inspecting fields are ignored. Also, salary levels are very low even after adjsuting for the cost of living  and hence botton 10percentile has been trimmed. 
 
-## Data preparation
-Repetitve tasks are captured under functions that does comparision and picking columns under specific catrogry.
+## Data Preparation
+Repetitve tasks are captured under functions that does comparision and picking columns under specific catrogry. Tidy model is practised wherever feasible.
 
 ## Modeling 
 Most of the insights are derived through charts plotted throug plotly package . For the analysing salary influence, linear regression in scikit package is used. 
