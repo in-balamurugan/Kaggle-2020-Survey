@@ -1,8 +1,7 @@
 # Kaggle-2020-Survey
 A peek into Kaggle survey 2020
 
-## Blog link [here]
-(https://balamurugan.netlify.app/post/kaggle-survey/)
+## Blog link [here](https://balamurugan.netlify.app/post/kaggle-survey/)
 
 ## About survey  
 Kaggle.com conducts annual survey among it's users. Survey is dominated by data professionals and data enthusiasist.
